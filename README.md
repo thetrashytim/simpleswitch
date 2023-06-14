@@ -3,8 +3,8 @@ Thanks for checking out my pack, I really just want to simplify the process even
 
 ## what is this pack
 This pack is an easy way to grab one file with everything needed to:
-- Make an emummc with proper protections from nintendo
-- Boot that emummc directly into a function atmosphere
+- Make an emummc with proper protections from nintendo (exo+dns), also proper system config for cheats
+- Boot that emummc directly into a ready to use & functional atmosphere
 - Tinfoil was also added for convenience
 - nothing more as far as plugins/customizations
 
