@@ -21,6 +21,7 @@ This pack is an easy way to grab one file with everything needed to:
 - Copy all files to SD (hekate.bin and fusee.bin can stay on the computer, but they can be on the SD too, it is fine to just copy all)
 - Extract from the ZIP to PC "fusee.bin" and "hekate.bin"
 - Put switch into RCM via an RCM jig, metal pins facing down, into the RIGHT HAND joycon port
+- After jig is in correctly, Press and HOLD VOL+, and then press power while still holding. VOL+ HAS TO BE PRESSED FIRST
 - Plug the switch into PC via USBC cable
 - Download <a href="https://github.com/developersu/ns-usbloader/releases/tag/v7.0">nsusbloader</a>, the installer.exe or get .jar for mac/linux
 - Install it, open nsusbloader, press gear icon on left, install drivers
