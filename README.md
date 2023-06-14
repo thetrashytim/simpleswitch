@@ -9,9 +9,9 @@ This pack is an easy way to grab one file with everything needed to:
 - nothing more as far as plugins/customizations
 
 ## actual files
-- Atmosphere 1.5.4
-- Hekate 6.0.5
-- Tinfoil 16
+- Atmosphere
+- Hekate
+- Tinfoil
 - exosphere.ini configured to block both sysmmc/emummc access to serial if on cfw
 - system settings changed for edizon to function properly
 - default.txt/hosts blocking file/dnsmitm
