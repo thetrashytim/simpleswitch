@@ -1,0 +1,37 @@
+# simpleswitch-pack
+Thanks for checking out my pack, I really just want to simplify the process even further as far as speed of start to finish for inexperienced/non-tech-saavy users.
+
+## what is this pack
+This pack is an easy way to grab one file with everything needed to:
+- Make an emummc with proper protections from nintendo
+- Boot that emummc directly into a function atmosphere
+- Tinfoil was also added for convenience
+- nothing more as far as plugins/customizations
+
+## actual files
+- Atmosphere 1.5.4
+- Hekate 6.0.5
+- Tinfoil 16
+- exosphere.ini configured to block both sysmmc/emummc access to serial if on cfw
+- system settings changed for edizon to function properly
+- default.exe/hosts blocking file/dnsmitm
+- Secret sauce (this is important)
+
+## How to quickly mod your switch if you are not that new to all this
+- Copy all files to SD (hekate.bin and fusee.bin can stay on the computer, but they can be on the SD too, it is fine to just copy all)
+- Extract from the ZIP to PC "fusee.bin" and "hekate.bin"
+- Put switch into RCM via an RCM jig, metal pins facing down, into the RIGHT HAND joycon port
+- Plug the switch into PC via USBC cable
+- Download <a href="https://github.com/developersu/ns-usbloader/releases/tag/v7.0">nsusbloader</a>, the installer.exe or get .jar for mac/linux
+- Install it, open nsusbloader, press gear icon on left, install drivers
+- Press RCM button on left, Press blue folder icon, find hekate.bin, inject
+- Set time in hekate, Go to Tools->Partition SD Card->Drag the RED BAR to 29FULL, press next step, follow prompts to format
+- Go back to Home from top menu
+- Press emuMMC->Create emuMMC->SD Partition->First Button->At 100% Press Close In Corner
+- Go to Hekate Home, Press on bottom part of home menu, Reboot->RCM
+- Load fusee.bin into RCM section on nsusbloader
+- Inject fusee.bin
+- Wait for boot, Press ALBUM button, Open DBI Installer
+- Install Tinfoil NSP from SD with DBI
+- Be on WiFi and open tinfoil, it will update, press B to exit, it is now installed to home menu
+- Find tinfoil shops to add
