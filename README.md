@@ -1,6 +1,8 @@
 # simpleswitch-pack
 Thanks for checking out my pack, I really just want to simplify the process even further as far as speed of start to finish for inexperienced/non-tech-saavy users.
 
+<a href="https://tinfoil.shop/setup/">A Quick Guide Using This Pack</a>
+
 ## what is this pack
 This pack is an easy way to grab one file with everything needed to:
 - Make an emummc with proper protections from nintendo (exo+dns), also proper system config for cheats
