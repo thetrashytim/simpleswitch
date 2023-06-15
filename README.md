@@ -12,6 +12,7 @@ This pack is an easy way to grab one file with everything needed to:
 - <a href="https://github.com/Atmosphere-NX/Atmosphere">Atmosphere</a>
 - <a href="https://github.com/CTCaer/hekate">Hekate</a>
 - <a href="https://tinfoil.io">Tinfoil</a>
+- <a href="https://github.com/rashevskyv/dbi">DBI Installer</a>
 - exosphere.ini configured to block both sysmmc/emummc access to serial if on cfw
 - system settings changed for edizon to function properly
 - default.txt/hosts blocking file/dnsmitm
