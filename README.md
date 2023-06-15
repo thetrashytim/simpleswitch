@@ -16,7 +16,7 @@ This pack is an easy way to grab one file with everything needed to:
 - exosphere.ini configured to block both sysmmc/emummc access to serial if on cfw
 - system settings changed for edizon to function properly
 - default.txt/hosts blocking file/dnsmitm
-- And the final ingredient was love, a kind of love that doesnt check for proper certificates
+- And the final ingredient was love, a kind of love that doesnt check for proper certificates, "come home, to simple-switch"
 
 ## How to quickly mod your switch if you are not that new to all this
 - Copy all files to SD (hekate.bin and fusee.bin can stay on the computer, but they can be on the SD too, it is fine to just copy all)
