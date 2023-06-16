@@ -1,4 +1,8 @@
 # Block Nintendo Servers
+# This file is to be saved as SD:/atmosphere/hosts/default.txt
+# If you want this to only apply to emuMMC, name it to emummc.txt instead
+# Using sysNAND on CFW is never recommended for new users
+# This + exosphere.ini on the root is the top 2 ways to avoid bans
 127.0.0.1 *nintendo.*
 127.0.0.1 *nintendo-europe.com
 127.0.0.1 *nintendoswitch.*
