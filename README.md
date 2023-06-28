@@ -21,6 +21,7 @@ This pack is an easy way to grab one file with everything needed to:
 - exosphere.ini configured to block both sysmmc/emummc access to serial if on cfw
 - system settings changed for edizon to function properly
 - default.txt/hosts blocking file/dnsmitm
+- basic launch options with hekate_ipl.ini
 - And the final ingredient was love, a kind of love that doesnt check for proper certificates, "come home, to simple-switch"
 
 ## How to quickly mod your switch if you are not that new to all this
