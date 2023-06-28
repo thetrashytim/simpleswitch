@@ -16,6 +16,7 @@ This pack is an easy way to grab one file with everything needed to:
 - <a href="https://tinfoil.io">Tinfoil</a>
 - <a href="https://github.com/rashevskyv/dbi">DBI Installer</a>
 - <a href="https://github.com/ITotalJustice/sys-patch/releases">sys-patch</a>
+- boot.ini/boot.dat/payload.bin added for chip users
 - Lockpick_RCM - Can be accessed within Hekate -> Console Information -> Lockpick
 - TegraExplorer.bin - Can be accessed within Hekate -> Other Payloads
 - exosphere.ini configured to block both sysmmc/emummc access to serial if on cfw
